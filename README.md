@@ -18,7 +18,7 @@ All analyses completed may be found within the [pymaceuticals.ipynb](https://git
     
 ## Observation Highlights
 
-The gender among all mice used in each drug regimen study was near evenly split between male and female.
+The gender among all mice used in each drug regimen study was near evenly split between male and female mice.
 
 ![Mice Gender Ratio](https://github.com/szerpa17/matplotlib-challenge/blob/master/Pymaceuticals/images/pandas_pie.png?raw=true)
 
