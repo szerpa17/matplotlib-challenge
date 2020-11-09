@@ -2,9 +2,9 @@
 
 ![Laboratory](Images/Laboratory.jpg)
 
-This challenge entails the analysis and the generation of tables/figures needed for a technical report on an animal stufy conducted on 249 mice. The mice in the study were identified with SCC tumor growth that were treated through a variety of drug regimens, containing observed and measured tumor development over 45 days.
+This challenge entails the analysis and the generation of tables/figures needed for a technical report on an animal study conducted on 249 mice. The mice in the study were identified with SCC tumor growth that were treated through a variety of drug regimens, containing observed and measured tumor development over 45 days.
 
-All analysis completed may be found within the [pymaceuticals.ipynb](https://github.com/szerpa17/matplotlib-challenge/blob/master/Pymaceuticals/pymaceuticals.ipynb) file.
+All analyses completed may be found within the [pymaceuticals.ipynb](https://github.com/szerpa17/matplotlib-challenge/blob/master/Pymaceuticals/pymaceuticals.ipynb) file.
 
 ## Tools
 
@@ -18,7 +18,7 @@ All analysis completed may be found within the [pymaceuticals.ipynb](https://git
     
 ## Observation Highlights
 
-The gender among all mice used in each drug regimen study were near evenly split between male and female.
+The gender among all mice used in each drug regimen study was near evenly split between male and female.
 
 ![Mice Gender Ratio](https://github.com/szerpa17/matplotlib-challenge/blob/master/Pymaceuticals/images/pandas_pie.png?raw=true)
 
